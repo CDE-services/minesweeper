@@ -1,2 +1,2 @@
-# minesweeper
-Minesweeper hra vytvorena v ramci akademie
+# Minesweeper
+Minesweeper hra vytvorena v ramci **akademie**
